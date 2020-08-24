@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/Risersoft/Ed
+      external_url: https://github.com/Risersoft/ERP
     - title: Blog
       url: /blog
 
@@ -14,18 +14,16 @@ topnav_dropdowns:
   folders:
     - title: Help
       folderitems:
-        - title: EdNirvana Web 
-          external_url: http://www.ednirvana.com/
-        
+       
         - title: Publisher
           external_url: http://www.risersoft.com/
         
     - title: Products
       folderitems:
-        - title: EdNirvana Web
-          url: /ed-web/introduction.html
-        - title: Learner Mobile
-          url: /learner-mobile/introduction.html
+        - title: Configuration
+          url: /configuration/introduction.html
+        - title: HRMS and Payroll
+          url: /hrms-payroll-win/introduction.html
         
         
           

@@ -8,10 +8,10 @@ entries:
   - title: Products
     output: web,pdf
     folderitems:
-    - title: EdNirvana Web
-      url: /ed-web/introduction.html
+    - title: Configuration
+      url: /configuration/introduction.html
       output: web
-    - title: Learner Mobile
-      url: /learner-mobile/introduction.html
+    - title: HRMS and Payroll
+      url: /hrms-payroll-win/introduction.html
       output: web
     
