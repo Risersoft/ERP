@@ -1,0 +1,1 @@
+﻿1. To UnBlock Depends File -> Windows Power Shell -> dir -Path "E:\vs\Common" -Recurse | Unblock-File

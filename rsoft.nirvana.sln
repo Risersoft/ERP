@@ -1,0 +1,421 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.inventory", "..\Books\Windows\risersoft.app.inventory\risersoft.app.inventory.vbproj", "{FBA4C657-8ABE-4FCD-88F0-F887364E852E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.purchase", "..\Books\Windows\risersoft.app.purchase\risersoft.app.purchase.vbproj", "{E7406EB0-09EC-43DE-B821-826DA4D6DE9F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.transport", "..\Books\Windows\risersoft.app.transport\risersoft.app.transport.vbproj", "{EAD0F160-E15E-49EA-BCF3-CB59398D4010}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.accounts", "..\Books\Windows\risersoft.app.accounts\risersoft.app.accounts.vbproj", "{F49A2A87-9EBA-40BF-9E77-A6DD9F3F9433}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.exvat", "..\GST\Windows\risersoft.app.exvat\risersoft.app.exvat.vbproj", "{8FA85D23-7A63-4A15-BFBD-3EDCA0A586A4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.hrp", "..\HRM\Windows\risersoft.app.hrp\risersoft.app.hrp.vbproj", "{B569421B-8D27-47CB-BE80-5A724DFD78F6}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.incentimizer", "..\MPC\Windows\risersoft.app.incentimizer\risersoft.app.incentimizer.vbproj", "{350030BB-D33D-4428-94CE-0A4B31BA99FC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.planning", "..\MPC\Windows\risersoft.app.planning\risersoft.app.planning.vbproj", "{F212F4C6-30FA-48E3-86F2-3AC35B4CC682}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.production", "..\MPC\Windows\risersoft.app.production\risersoft.app.production.vbproj", "{F4EEEC4F-5E81-4082-B8CE-C5D3AA0E9CF0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.quality", "Windows\risersoft.app.quality\risersoft.app.quality.vbproj", "{BBCF7590-2704-4B71-B6B6-181E1E5761EC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.maint", "Windows\risersoft.app.maint\risersoft.app.maint.vbproj", "{4B466FAE-7F02-462F-8666-C21F1E28D172}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.sales", "..\CRM\Windows\risersoft.app.sales\risersoft.app.sales.vbproj", "{DBCCFF7A-5CE9-4741-8045-A99B1CBC68E8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.productdef_", "..\MPC\Windows\risersoft.app.productdef\risersoft.app.productdef_.vbproj", "{27ECE920-8806-4418-848D-B17D2EE2B169}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.reports.erp", "..\Common\Reports\risersoft.app.reports.erp\risersoft.app.reports.erp.vbproj", "{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform", "..\Common\Forms\risersoft.app.mxform\risersoft.app.mxform.vbproj", "{0E5882D2-22B1-4716-99DF-680A77AE3E19}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.unc", "Windows\risersoft.app.unc\risersoft.app.unc.vbproj", "{15159078-FC6A-4BC1-BB98-4461A9CD3B4A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.config", "..\Common\Windows\risersoft.app.config\risersoft.app.config.vbproj", "{6E72E896-AFCE-497C-95ED-676F43B862F1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.projects", "..\Projects\Windows\risersoft.app.projects\risersoft.app.projects.vbproj", "{699E2DCC-39A9-43A7-9C6D-D4F5C699EDDD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.crm", "..\CRM\Windows\risersoft.app.crm\risersoft.app.crm.vbproj", "{925C7216-73BC-45AF-9BEE-9B9B87EFC00A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSTN.API.Library", "..\GST\Framework\GSTN.API.Library\GSTN.API.Library.csproj", "{B3FC4B26-9C24-43FF-B55F-3B1AE5642050}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.nsa", "..\Common\Windows\risersoft.app.nsa\risersoft.app.nsa.vbproj", "{136BC3BC-482E-4C33-AF4B-73BD2A56C02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "risersoft.shared.web.mvc", "..\Common\Web\risersoft.shared.web.mvc\risersoft.shared.web.mvc.csproj", "{E0CC17DC-880D-47B0-B8F5-1C981F76C662}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSBooksNirvana", "..\Books\Windows\risersoft.exe.fico\_RSBooksNirvana.vbproj", "{4A079F94-0DF9-4A3D-9B6E-0CE7CEF8DDAE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSHRMNirvana", "..\HRM\Windows\risersoft.exe.hrp\_RSHRMNirvana.vbproj", "{3E3C0D35-8EE8-4787-9DBE-2D80F1C0A08F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSMPCNIrvana", "..\MPC\Windows\risersoft.exe.ppc\_RSMPCNIrvana.vbproj", "{F5E9010E-169A-4BDC-9835-E177DA59F27A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSProjectsNIrvana", "..\Projects\Windows\risersoft.exe.projects\_RSProjectsNIrvana.vbproj", "{739A0A10-1826-41BA-B66B-3F57E246E9E0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSCRMNirvana", "..\CRM\Windows\risersoft.exe.crm\_RSCRMNirvana.vbproj", "{D11629B6-774A-44E9-9DA5-DD42E23CE36F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSGstNirvana", "..\GST\Windows\_RSGstNirvana\_RSGstNirvana.vbproj", "{B9BA4DF7-0FD4-4D0B-94B7-C30C7DAACC35}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.gst", "..\GST\Windows\risersoft.app.gst\risersoft.app.gst.vbproj", "{67C084AE-8048-4A0B-AE94-0FAC679A789A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.reports.gst", "..\Common\Reports\risersoft.app.reports.gst\risersoft.app.reports.gst.vbproj", "{3B307AE8-BAE2-406D-9C44-51DB92850361}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.books", "..\Books\Framework\risersoft.app.mxform.books\risersoft.app.mxform.books.vbproj", "{AC11BDC5-8644-4C2A-80BB-CEF3C8BB8FE5}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.crm", "..\CRM\Framework\risersoft.app.mxform.crm\risersoft.app.mxform.crm.vbproj", "{0D52B103-E9CC-43FD-9986-BD4A1A78E8D7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.gst", "..\GST\Framework\risersoft.app.mxform.gst\risersoft.app.mxform.gst.vbproj", "{AA7FA4CE-13DD-4B73-87EF-DC98B6F6D207}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.hrm", "..\HRM\Framework\risersoft.app.mxform.hrm\risersoft.app.mxform.hrm.vbproj", "{12E1AAA1-9EC5-4881-8F5A-FE0805D47307}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.mpc", "..\MPC\Framework\risersoft.app.mxform.mpc\risersoft.app.mxform.mpc.vbproj", "{789D011C-D2C7-4C47-911A-EB39B75C1D89}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.prj", "..\Projects\Framework\risersoft.app.mxform.prj\risersoft.app.mxform.prj.vbproj", "{B7399F4A-5181-439F-87D4-EC9188FFC235}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSEduNirvana", "..\Talent\Windows\risersoft.exe.Edu\_RSEduNirvana.vbproj", "{91703844-965F-48C8-98F1-00B20FA4FF00}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.Edu", "..\Talent\Windows\risersoft.app.Edu\risersoft.app.Edu.vbproj", "{91F073AF-2135-413F-B7AD-10CC3E2DD1BC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.Edu", "..\Talent\Framework\risersoft.app.mxform.Edu\risersoft.app.mxform.Edu.vbproj", "{900A7120-3AA9-4A25-8C8D-8C112685A92B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_RSCollegeNirvana", "..\College\Windows\risersoft.exe.Collegenirvana\_RSCollegeNirvana.vbproj", "{B6C67EF3-E87E-49E9-9B1C-030F4B404BAD}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.College", "..\College\Windows\risersoft.app.College\risersoft.app.College.vbproj", "{FD73DD1F-F761-4811-9A69-50DB3AA3B759}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "klts.app.admin", "..\College\Windows\klts.app.admin\klts.app.admin.vbproj", "{895592D8-2C57-4E67-81DE-452D02DB7E6B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "risersoft.app.mxform.College", "..\College\Framework\risersoft.app.mxform.College\risersoft.app.mxform.College.vbproj", "{31C1FFC7-C4C6-46BA-8783-7C796F4E076D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "klts.app.mxform.admin", "..\College\Framework\klts.app.mxform.admin\klts.app.mxform.admin.csproj", "{1DC08AE8-4C36-4C09-BE0A-8A414561D307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA4C657-8ABE-4FCD-88F0-F887364E852E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA4C657-8ABE-4FCD-88F0-F887364E852E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA4C657-8ABE-4FCD-88F0-F887364E852E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA4C657-8ABE-4FCD-88F0-F887364E852E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7406EB0-09EC-43DE-B821-826DA4D6DE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7406EB0-09EC-43DE-B821-826DA4D6DE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7406EB0-09EC-43DE-B821-826DA4D6DE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7406EB0-09EC-43DE-B821-826DA4D6DE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD0F160-E15E-49EA-BCF3-CB59398D4010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD0F160-E15E-49EA-BCF3-CB59398D4010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD0F160-E15E-49EA-BCF3-CB59398D4010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD0F160-E15E-49EA-BCF3-CB59398D4010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49A2A87-9EBA-40BF-9E77-A6DD9F3F9433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49A2A87-9EBA-40BF-9E77-A6DD9F3F9433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49A2A87-9EBA-40BF-9E77-A6DD9F3F9433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49A2A87-9EBA-40BF-9E77-A6DD9F3F9433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FA85D23-7A63-4A15-BFBD-3EDCA0A586A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FA85D23-7A63-4A15-BFBD-3EDCA0A586A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FA85D23-7A63-4A15-BFBD-3EDCA0A586A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FA85D23-7A63-4A15-BFBD-3EDCA0A586A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B569421B-8D27-47CB-BE80-5A724DFD78F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B569421B-8D27-47CB-BE80-5A724DFD78F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B569421B-8D27-47CB-BE80-5A724DFD78F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B569421B-8D27-47CB-BE80-5A724DFD78F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{350030BB-D33D-4428-94CE-0A4B31BA99FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{350030BB-D33D-4428-94CE-0A4B31BA99FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{350030BB-D33D-4428-94CE-0A4B31BA99FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{350030BB-D33D-4428-94CE-0A4B31BA99FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F212F4C6-30FA-48E3-86F2-3AC35B4CC682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F212F4C6-30FA-48E3-86F2-3AC35B4CC682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F212F4C6-30FA-48E3-86F2-3AC35B4CC682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F212F4C6-30FA-48E3-86F2-3AC35B4CC682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EEEC4F-5E81-4082-B8CE-C5D3AA0E9CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EEEC4F-5E81-4082-B8CE-C5D3AA0E9CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EEEC4F-5E81-4082-B8CE-C5D3AA0E9CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EEEC4F-5E81-4082-B8CE-C5D3AA0E9CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCF7590-2704-4B71-B6B6-181E1E5761EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCF7590-2704-4B71-B6B6-181E1E5761EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCF7590-2704-4B71-B6B6-181E1E5761EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCF7590-2704-4B71-B6B6-181E1E5761EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B466FAE-7F02-462F-8666-C21F1E28D172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B466FAE-7F02-462F-8666-C21F1E28D172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B466FAE-7F02-462F-8666-C21F1E28D172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B466FAE-7F02-462F-8666-C21F1E28D172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCCFF7A-5CE9-4741-8045-A99B1CBC68E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCCFF7A-5CE9-4741-8045-A99B1CBC68E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCCFF7A-5CE9-4741-8045-A99B1CBC68E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCCFF7A-5CE9-4741-8045-A99B1CBC68E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27ECE920-8806-4418-848D-B17D2EE2B169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ECE920-8806-4418-848D-B17D2EE2B169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ECE920-8806-4418-848D-B17D2EE2B169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ECE920-8806-4418-848D-B17D2EE2B169}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD33710-07BC-4C86-AF4C-3A24BA8AB6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5882D2-22B1-4716-99DF-680A77AE3E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15159078-FC6A-4BC1-BB98-4461A9CD3B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15159078-FC6A-4BC1-BB98-4461A9CD3B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15159078-FC6A-4BC1-BB98-4461A9CD3B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15159078-FC6A-4BC1-BB98-4461A9CD3B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E72E896-AFCE-497C-95ED-676F43B862F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{699E2DCC-39A9-43A7-9C6D-D4F5C699EDDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{699E2DCC-39A9-43A7-9C6D-D4F5C699EDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{699E2DCC-39A9-43A7-9C6D-D4F5C699EDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{699E2DCC-39A9-43A7-9C6D-D4F5C699EDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925C7216-73BC-45AF-9BEE-9B9B87EFC00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925C7216-73BC-45AF-9BEE-9B9B87EFC00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925C7216-73BC-45AF-9BEE-9B9B87EFC00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925C7216-73BC-45AF-9BEE-9B9B87EFC00A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FC4B26-9C24-43FF-B55F-3B1AE5642050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FC4B26-9C24-43FF-B55F-3B1AE5642050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FC4B26-9C24-43FF-B55F-3B1AE5642050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FC4B26-9C24-43FF-B55F-3B1AE5642050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136BC3BC-482E-4C33-AF4B-73BD2A56C02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136BC3BC-482E-4C33-AF4B-73BD2A56C02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136BC3BC-482E-4C33-AF4B-73BD2A56C02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136BC3BC-482E-4C33-AF4B-73BD2A56C02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0CC17DC-880D-47B0-B8F5-1C981F76C662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0CC17DC-880D-47B0-B8F5-1C981F76C662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0CC17DC-880D-47B0-B8F5-1C981F76C662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0CC17DC-880D-47B0-B8F5-1C981F76C662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A079F94-0DF9-4A3D-9B6E-0CE7CEF8DDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A079F94-0DF9-4A3D-9B6E-0CE7CEF8DDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A079F94-0DF9-4A3D-9B6E-0CE7CEF8DDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A079F94-0DF9-4A3D-9B6E-0CE7CEF8DDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3C0D35-8EE8-4787-9DBE-2D80F1C0A08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3C0D35-8EE8-4787-9DBE-2D80F1C0A08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3C0D35-8EE8-4787-9DBE-2D80F1C0A08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3C0D35-8EE8-4787-9DBE-2D80F1C0A08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5E9010E-169A-4BDC-9835-E177DA59F27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E9010E-169A-4BDC-9835-E177DA59F27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E9010E-169A-4BDC-9835-E177DA59F27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E9010E-169A-4BDC-9835-E177DA59F27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739A0A10-1826-41BA-B66B-3F57E246E9E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739A0A10-1826-41BA-B66B-3F57E246E9E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739A0A10-1826-41BA-B66B-3F57E246E9E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739A0A10-1826-41BA-B66B-3F57E246E9E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11629B6-774A-44E9-9DA5-DD42E23CE36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11629B6-774A-44E9-9DA5-DD42E23CE36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11629B6-774A-44E9-9DA5-DD42E23CE36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11629B6-774A-44E9-9DA5-DD42E23CE36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BA4DF7-0FD4-4D0B-94B7-C30C7DAACC35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BA4DF7-0FD4-4D0B-94B7-C30C7DAACC35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BA4DF7-0FD4-4D0B-94B7-C30C7DAACC35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BA4DF7-0FD4-4D0B-94B7-C30C7DAACC35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C084AE-8048-4A0B-AE94-0FAC679A789A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C084AE-8048-4A0B-AE94-0FAC679A789A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C084AE-8048-4A0B-AE94-0FAC679A789A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C084AE-8048-4A0B-AE94-0FAC679A789A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B307AE8-BAE2-406D-9C44-51DB92850361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B307AE8-BAE2-406D-9C44-51DB92850361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B307AE8-BAE2-406D-9C44-51DB92850361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B307AE8-BAE2-406D-9C44-51DB92850361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC11BDC5-8644-4C2A-80BB-CEF3C8BB8FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC11BDC5-8644-4C2A-80BB-CEF3C8BB8FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC11BDC5-8644-4C2A-80BB-CEF3C8BB8FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC11BDC5-8644-4C2A-80BB-CEF3C8BB8FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D52B103-E9CC-43FD-9986-BD4A1A78E8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D52B103-E9CC-43FD-9986-BD4A1A78E8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D52B103-E9CC-43FD-9986-BD4A1A78E8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D52B103-E9CC-43FD-9986-BD4A1A78E8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7FA4CE-13DD-4B73-87EF-DC98B6F6D207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7FA4CE-13DD-4B73-87EF-DC98B6F6D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7FA4CE-13DD-4B73-87EF-DC98B6F6D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7FA4CE-13DD-4B73-87EF-DC98B6F6D207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E1AAA1-9EC5-4881-8F5A-FE0805D47307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E1AAA1-9EC5-4881-8F5A-FE0805D47307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E1AAA1-9EC5-4881-8F5A-FE0805D47307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E1AAA1-9EC5-4881-8F5A-FE0805D47307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789D011C-D2C7-4C47-911A-EB39B75C1D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789D011C-D2C7-4C47-911A-EB39B75C1D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789D011C-D2C7-4C47-911A-EB39B75C1D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789D011C-D2C7-4C47-911A-EB39B75C1D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7399F4A-5181-439F-87D4-EC9188FFC235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7399F4A-5181-439F-87D4-EC9188FFC235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7399F4A-5181-439F-87D4-EC9188FFC235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7399F4A-5181-439F-87D4-EC9188FFC235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91703844-965F-48C8-98F1-00B20FA4FF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91703844-965F-48C8-98F1-00B20FA4FF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91703844-965F-48C8-98F1-00B20FA4FF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91703844-965F-48C8-98F1-00B20FA4FF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F073AF-2135-413F-B7AD-10CC3E2DD1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F073AF-2135-413F-B7AD-10CC3E2DD1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F073AF-2135-413F-B7AD-10CC3E2DD1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F073AF-2135-413F-B7AD-10CC3E2DD1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900A7120-3AA9-4A25-8C8D-8C112685A92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900A7120-3AA9-4A25-8C8D-8C112685A92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900A7120-3AA9-4A25-8C8D-8C112685A92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900A7120-3AA9-4A25-8C8D-8C112685A92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C67EF3-E87E-49E9-9B1C-030F4B404BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C67EF3-E87E-49E9-9B1C-030F4B404BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C67EF3-E87E-49E9-9B1C-030F4B404BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C67EF3-E87E-49E9-9B1C-030F4B404BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD73DD1F-F761-4811-9A69-50DB3AA3B759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD73DD1F-F761-4811-9A69-50DB3AA3B759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD73DD1F-F761-4811-9A69-50DB3AA3B759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD73DD1F-F761-4811-9A69-50DB3AA3B759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895592D8-2C57-4E67-81DE-452D02DB7E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895592D8-2C57-4E67-81DE-452D02DB7E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895592D8-2C57-4E67-81DE-452D02DB7E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895592D8-2C57-4E67-81DE-452D02DB7E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C1FFC7-C4C6-46BA-8783-7C796F4E076D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C1FFC7-C4C6-46BA-8783-7C796F4E076D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C1FFC7-C4C6-46BA-8783-7C796F4E076D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C1FFC7-C4C6-46BA-8783-7C796F4E076D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC08AE8-4C36-4C09-BE0A-8A414561D307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC08AE8-4C36-4C09-BE0A-8A414561D307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC08AE8-4C36-4C09-BE0A-8A414561D307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC08AE8-4C36-4C09-BE0A-8A414561D307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F6E73C-66CE-4E59-9278-2BF7AA695455}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 45
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://rsds.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\Auth\\Forms\\risersoft.app.mxform\\risersoft.app.mxform.vbproj
+		SccProjectName1 = ../Auth/Forms/risersoft.app.mxform
+		SccLocalPath1 = ..\\Auth\\Forms\\risersoft.app.mxform
+		SccProjectUniqueName2 = ..\\Auth\\Reports\\risersoft.app.reports.erp\\risersoft.app.reports.erp.vbproj
+		SccProjectName2 = ../Auth/Reports/risersoft.app.reports.erp
+		SccLocalPath2 = ..\\Auth\\Reports\\risersoft.app.reports.erp
+		SccProjectUniqueName3 = ..\\Auth\\Framework\\risersoft.shared.web.mvc\\risersoft.shared.web.mvc.csproj
+		SccProjectName3 = ../Auth/Framework/risersoft.shared.web.mvc
+		SccLocalPath3 = ..\\Auth\\Framework\\risersoft.shared.web.mvc
+		SccProjectUniqueName4 = ..\\Books\\Windows\\risersoft.app.inventory\\risersoft.app.inventory.vbproj
+		SccProjectName4 = ../Books/Windows/risersoft.app.inventory
+		SccLocalPath4 = ..\\Books\\Windows\\risersoft.app.inventory
+		SccProjectUniqueName5 = ..\\Books\\Windows\\risersoft.app.purchase\\risersoft.app.purchase.vbproj
+		SccProjectName5 = ../Books/Windows/risersoft.app.purchase
+		SccLocalPath5 = ..\\Books\\Windows\\risersoft.app.purchase
+		SccProjectUniqueName6 = ..\\Books\\Windows\\risersoft.app.transport\\risersoft.app.transport.vbproj
+		SccProjectName6 = ../Books/Windows/risersoft.app.transport
+		SccLocalPath6 = ..\\Books\\Windows\\risersoft.app.transport
+		SccProjectUniqueName7 = ..\\Books\\Windows\\risersoft.app.accounts\\risersoft.app.accounts.vbproj
+		SccProjectName7 = ../Books/Windows/risersoft.app.accounts
+		SccLocalPath7 = ..\\Books\\Windows\\risersoft.app.accounts
+		SccProjectUniqueName8 = ..\\GST\\Windows\\risersoft.app.exvat\\risersoft.app.exvat.vbproj
+		SccProjectName8 = ../GST/Windows/risersoft.app.exvat
+		SccLocalPath8 = ..\\GST\\Windows\\risersoft.app.exvat
+		SccProjectUniqueName9 = ..\\HRM\\Windows\\risersoft.app.hrp\\risersoft.app.hrp.vbproj
+		SccProjectName9 = ../HRM/Windows/risersoft.app.hrp
+		SccLocalPath9 = ..\\HRM\\Windows\\risersoft.app.hrp
+		SccProjectUniqueName10 = ..\\MPC\\Windows\\risersoft.app.incentimizer\\risersoft.app.incentimizer.vbproj
+		SccProjectName10 = ../MPC/Windows/risersoft.app.incentimizer
+		SccLocalPath10 = ..\\MPC\\Windows\\risersoft.app.incentimizer
+		SccProjectUniqueName11 = ..\\MPC\\Windows\\risersoft.app.planning\\risersoft.app.planning.vbproj
+		SccProjectName11 = ../MPC/Windows/risersoft.app.planning
+		SccLocalPath11 = ..\\MPC\\Windows\\risersoft.app.planning
+		SccProjectUniqueName12 = ..\\MPC\\Windows\\risersoft.app.production\\risersoft.app.production.vbproj
+		SccProjectName12 = ../MPC/Windows/risersoft.app.production
+		SccLocalPath12 = ..\\MPC\\Windows\\risersoft.app.production
+		SccProjectUniqueName13 = Windows\\risersoft.app.quality\\risersoft.app.quality.vbproj
+		SccProjectName13 = Windows/risersoft.app.quality
+		SccLocalPath13 = Windows\\risersoft.app.quality
+		SccProjectUniqueName14 = Windows\\risersoft.app.maint\\risersoft.app.maint.vbproj
+		SccProjectName14 = Windows/risersoft.app.maint
+		SccLocalPath14 = Windows\\risersoft.app.maint
+		SccProjectUniqueName15 = ..\\CRM\\Windows\\risersoft.app.sales\\risersoft.app.sales.vbproj
+		SccProjectName15 = ../CRM/Windows/risersoft.app.sales
+		SccLocalPath15 = ..\\CRM\\Windows\\risersoft.app.sales
+		SccProjectUniqueName16 = ..\\MPC\\Windows\\risersoft.app.productdef\\risersoft.app.productdef_.vbproj
+		SccProjectName16 = ../MPC/Windows/risersoft.app.productdef
+		SccLocalPath16 = ..\\MPC\\Windows\\risersoft.app.productdef
+		SccProjectUniqueName17 = Windows\\risersoft.app.unc\\risersoft.app.unc.vbproj
+		SccProjectName17 = Windows/risersoft.app.unc
+		SccLocalPath17 = Windows\\risersoft.app.unc
+		SccProjectUniqueName18 = ..\\Auth\\Windows\\risersoft.app.config\\risersoft.app.config.vbproj
+		SccProjectName18 = ../Auth/Windows/risersoft.app.config
+		SccLocalPath18 = ..\\Auth\\Windows\\risersoft.app.config
+		SccProjectUniqueName19 = ..\\Projects\\Windows\\risersoft.app.projects\\risersoft.app.projects.vbproj
+		SccProjectName19 = ../Projects/Windows/risersoft.app.projects
+		SccLocalPath19 = ..\\Projects\\Windows\\risersoft.app.projects
+		SccProjectUniqueName20 = ..\\CRM\\Windows\\risersoft.app.crm\\risersoft.app.crm.vbproj
+		SccProjectName20 = ../CRM/Windows/risersoft.app.crm
+		SccLocalPath20 = ..\\CRM\\Windows\\risersoft.app.crm
+		SccProjectUniqueName21 = ..\\GST\\Framework\\GSTN.API.Library\\GSTN.API.Library.csproj
+		SccProjectName21 = ../GST/Framework/GSTN.API.Library
+		SccLocalPath21 = ..\\GST\\Framework\\GSTN.API.Library
+		SccProjectUniqueName22 = ..\\Auth\\Windows\\risersoft.app.nsa\\risersoft.app.nsa.vbproj
+		SccProjectName22 = ../Auth/Windows/risersoft.app.nsa
+		SccLocalPath22 = ..\\Auth\\Windows\\risersoft.app.nsa
+		SccProjectUniqueName23 = ..\\Books\\Windows\\risersoft.exe.fico\\_RSBooksNirvana.vbproj
+		SccProjectName23 = ../Books/Windows/risersoft.exe.fico
+		SccLocalPath23 = ..\\Books\\Windows\\risersoft.exe.fico
+		SccProjectUniqueName24 = ..\\HRM\\Windows\\risersoft.exe.hrp\\_RSHRMNirvana.vbproj
+		SccProjectName24 = ../HRM/Windows/risersoft.exe.hrp
+		SccLocalPath24 = ..\\HRM\\Windows\\risersoft.exe.hrp
+		SccProjectUniqueName25 = ..\\MPC\\Windows\\risersoft.exe.ppc\\_RSMPCNIrvana.vbproj
+		SccProjectName25 = ../MPC/Windows/risersoft.exe.ppc
+		SccLocalPath25 = ..\\MPC\\Windows\\risersoft.exe.ppc
+		SccProjectUniqueName26 = ..\\Projects\\Windows\\risersoft.exe.projects\\_RSProjectsNIrvana.vbproj
+		SccProjectName26 = ../Projects/Windows/risersoft.exe.projects
+		SccLocalPath26 = ..\\Projects\\Windows\\risersoft.exe.projects
+		SccProjectUniqueName27 = ..\\CRM\\Windows\\risersoft.exe.crm\\_RSCRMNirvana.vbproj
+		SccProjectName27 = ../CRM/Windows/risersoft.exe.crm
+		SccLocalPath27 = ..\\CRM\\Windows\\risersoft.exe.crm
+		SccProjectUniqueName28 = ..\\GST\\Windows\\_RSGstNirvana\\_RSGstNirvana.vbproj
+		SccProjectName28 = ../GST/Windows/_RSGstNirvana
+		SccLocalPath28 = ..\\GST\\Windows\\_RSGstNirvana
+		SccProjectUniqueName29 = ..\\GST\\Framework\\risersoft.app.mxform.gst\\risersoft.app.mxform.gst.vbproj
+		SccProjectName29 = ../GST/Framework/risersoft.app.mxform.gst
+		SccLocalPath29 = ..\\GST\\Framework\\risersoft.app.mxform.gst
+		SccProjectUniqueName30 = ..\\GST\\Windows\\risersoft.app.gst\\risersoft.app.gst.vbproj
+		SccProjectName30 = ../GST/Windows/risersoft.app.gst
+		SccLocalPath30 = ..\\GST\\Windows\\risersoft.app.gst
+		SccProjectUniqueName31 = ..\\Auth\\Reports\\risersoft.app.reports.gst\\risersoft.app.reports.gst.vbproj
+		SccProjectName31 = ../Auth/Reports/risersoft.app.reports.gst
+		SccLocalPath31 = ..\\Auth\\Reports\\risersoft.app.reports.gst
+		SccProjectUniqueName32 = ..\\Books\\Framework\\risersoft.app.mxform.books\\risersoft.app.mxform.books.vbproj
+		SccProjectName32 = ../Books/Framework/risersoft.app.mxform.books
+		SccLocalPath32 = ..\\Books\\Framework\\risersoft.app.mxform.books
+		SccProjectUniqueName33 = ..\\CRM\\Framework\\risersoft.app.mxform.crm\\risersoft.app.mxform.crm.vbproj
+		SccProjectName33 = ../CRM/Framework/risersoft.app.mxform.crm
+		SccLocalPath33 = ..\\CRM\\Framework\\risersoft.app.mxform.crm
+		SccProjectUniqueName34 = ..\\HRM\\Framework\\risersoft.app.mxform.hrm\\risersoft.app.mxform.hrm.vbproj
+		SccProjectName34 = ../HRM/Framework/risersoft.app.mxform.hrm
+		SccLocalPath34 = ..\\HRM\\Framework\\risersoft.app.mxform.hrm
+		SccProjectUniqueName35 = ..\\MPC\\Framework\\risersoft.app.mxform.mpc\\risersoft.app.mxform.mpc.vbproj
+		SccProjectName35 = ../MPC/Framework/risersoft.app.mxform.mpc
+		SccLocalPath35 = ..\\MPC\\Framework\\risersoft.app.mxform.mpc
+		SccProjectUniqueName36 = ..\\Projects\\Framework\\risersoft.app.mxform.prj\\risersoft.app.mxform.prj.vbproj
+		SccProjectName36 = ../Projects/Framework/risersoft.app.mxform.prj
+		SccLocalPath36 = ..\\Projects\\Framework\\risersoft.app.mxform.prj
+		SccProjectUniqueName37 = ..\\Edu\\Windows\\risersoft.exe.Edu\\_RSEduNirvana.vbproj
+		SccProjectName37 = ../Edu/Windows/risersoft.exe.Edu
+		SccLocalPath37 = ..\\Edu\\Windows\\risersoft.exe.Edu
+		SccProjectUniqueName38 = ..\\Edu\\Windows\\risersoft.app.Edu\\risersoft.app.Edu.vbproj
+		SccProjectName38 = ../Edu/Windows/risersoft.app.Edu
+		SccLocalPath38 = ..\\Edu\\Windows\\risersoft.app.Edu
+		SccProjectUniqueName39 = ..\\Edu\\Framework\\risersoft.app.mxform.Edu\\risersoft.app.mxform.Edu.vbproj
+		SccProjectName39 = ../Edu/Framework/risersoft.app.mxform.Edu
+		SccLocalPath39 = ..\\Edu\\Framework\\risersoft.app.mxform.Edu
+		SccProjectUniqueName40 = ..\\Edu\\Windows\\risersoft.exe.edunirvana\\_RSEduNirvana.vbproj
+		SccProjectName40 = ../Edu/Windows/risersoft.exe.edunirvana
+		SccLocalPath40 = ..\\Edu\\Windows\\risersoft.exe.edunirvana
+		SccProjectUniqueName41 = ..\\Edu\\Windows\\risersoft.app.edu\\risersoft.app.edu.vbproj
+		SccProjectName41 = ../Edu/Windows/risersoft.app.edu
+		SccLocalPath41 = ..\\Edu\\Windows\\risersoft.app.edu
+		SccProjectUniqueName42 = ..\\Edu\\Windows\\klts.app.admin\\klts.app.admin.vbproj
+		SccProjectName42 = ../Edu/Windows/klts.app.admin
+		SccLocalPath42 = ..\\Edu\\Windows\\klts.app.admin
+		SccProjectUniqueName43 = ..\\Edu\\Framework\\risersoft.app.mxform.edu\\risersoft.app.mxform.edu.vbproj
+		SccProjectName43 = ../Edu/Framework/risersoft.app.mxform.edu
+		SccLocalPath43 = ..\\Edu\\Framework\\risersoft.app.mxform.edu
+		SccProjectUniqueName44 = ..\\Edu\\Framework\\klts.app.mxform.admin\\klts.app.mxform.admin.csproj
+		SccProjectName44 = ../Edu/Framework/klts.app.mxform.admin
+		SccLocalPath44 = ..\\Edu\\Framework\\klts.app.mxform.admin
+	EndGlobalSection
+EndGlobal
