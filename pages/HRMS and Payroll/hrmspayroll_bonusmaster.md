@@ -16,7 +16,6 @@ comments: false
 
 It will be auto-generated on the basis of Bonus Start Month field in Company HR details.
 
- 
 
 > Note: This option is only available in Payroll.
 
@@ -42,11 +41,15 @@ Open Company HR Details form and click on Bonus tab. Bonus master list will be d
 
 **Step-2:** Edit the details of Details tab and click on **Calculate**. BM, FF and Vouchers tabs will auto-populate.
 
+**Step-3:** Click on **Summary**. Bonus Summary will populate with respect to Pay period .
+
+**Step-4:** Click on **Payment**. Bonus Payment Summary will populate with respect to Pay period . After Click on Payment Button Bonus will be show in accounts department for payment.
+
 Bonus master will calculate when all the pay period between start date and end date are finalized. Other it gives message.
 
-![](/images/bonus-master-details.jpg)
+![](/images/Createbonusmaster.jpg)
 
-**Step-3:** Click on **Save**.
+**Step-5:** Click on **Save**.
 
  
 
